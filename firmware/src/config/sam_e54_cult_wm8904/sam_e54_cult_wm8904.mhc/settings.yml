@@ -1,0 +1,13 @@
+configName: sam_e54_cult_wm8904
+folderName: ''
+format_version: v1.0
+frameworkPath: ../../../../microchip/harmony/h3
+processor: ATSAME54P20A
+projectName: ''
+settings:
+  PackageFilter: audio;bsp;core;core_apps_sam_d5x_e5x;csp;csp_apps_sam_d5x_e5x;gfx;quick_docs;usb
+  FORCE_OPTIMIZATION: 'false'
+  GENERATE_BACKUP: 'true'
+  CMSISPath: .\dev_packs\arm\CMSIS\5.7.0
+  MERGE_STRATEGY: USER_ALL
+  DFPPath: .\dev_packs\Microchip\SAME54_DFP\3.5.87\atdf\ATSAME54P20A.atdf

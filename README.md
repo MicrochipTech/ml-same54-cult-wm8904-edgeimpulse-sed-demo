@@ -18,7 +18,7 @@ Measured with ``-O2`` compiler optimizations and 120MHz Clock
 - 96.9% Test set accuracy (see section on [Audio Dataset](#audio-dataset))
 
 ## Audio Dataset
-A dataset for vacuum cleaner detection can be downloaded from the [releases page](releases). The data is a selected subset of the [DEMAND](https://zenodo.org/record/1227121#.XRKKxYhKiUk) and [MS-SNSD](https://github.com/microsoft/MS-SNSD), with the vacuum cleaner sounds pulled from MS-SNSD, and the background noise segments (babble noise, air conditioner, and a mix of indoor domestic noise) pulled from both DEMAND and MS-SNSD.
+A dataset for vacuum cleaner detection can be downloaded from the [releases page](../../releases). The data is a selected subset of the [DEMAND](https://zenodo.org/record/1227121#.XRKKxYhKiUk) and [MS-SNSD](https://github.com/microsoft/MS-SNSD) datasets, with the vacuum cleaner sounds pulled from MS-SNSD, and the background noise segments (babble noise, air conditioner, and a mix of indoor domestic noise) pulled from both DEMAND and MS-SNSD.
 
 ## LogMFE Custom Processing Block
 Code for adding LogMFE audio features to Edge Impulse Studio is located under the [custom-processing-blocks](custom-processing-blocks) directory.

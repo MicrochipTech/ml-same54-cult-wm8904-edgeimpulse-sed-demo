@@ -1,3 +1,4 @@
+![https://www.microchip.com/](assets/microchip.png)
 # Sound Event Detection with Edge Impulse
 ![Deployed sound recognizer](assets/soundrecognition-with-edge-impulse.gif)
 
